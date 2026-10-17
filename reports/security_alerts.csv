@@ -1,0 +1,14 @@
+timestamp,source_ip,username,alert_type,severity,description
+2026-10-12 09:12:00,192.168.1.20,guest,Account Lockout,Low,Account lockout event detected
+2026-10-12 09:54:00,192.168.1.30,guest,Account Lockout,Low,Account lockout event detected
+2026-10-12 09:57:00,192.168.1.10,admin,Account Lockout,Low,Account lockout event detected
+2026-10-12 10:39:00,192.168.1.20,guest,Account Lockout,Low,Account lockout event detected
+2026-10-12 11:54:00,192.168.1.20,john,Account Lockout,Low,Account lockout event detected
+2026-10-12 12:15:00,10.0.0.15,guest,Account Lockout,Low,Account lockout event detected
+2026-10-12 13:01:20,192.168.1.99,Multiple/Unknown,Possible Brute Force,High,5 failed logins within 5 minutes
+2026-10-12 14:12:00,192.168.1.40,john,Account Lockout,Low,Account lockout event detected
+2026-10-12 15:57:00,Multiple/Unknown,admin,Repeated Account Failures,Medium,21 failed logins for account
+2026-10-12 16:21:00,192.168.1.30,guest,Account Lockout,Low,Account lockout event detected
+2026-10-12 16:24:00,10.0.0.15,analyst,Account Lockout,Low,Account lockout event detected
+2026-10-12 16:42:00,Multiple/Unknown,sarah,Repeated Account Failures,Medium,11 failed logins for account
+2026-10-12 17:18:00,Multiple/Unknown,guest,Repeated Account Failures,Medium,19 failed logins for account
