@@ -97,17 +97,27 @@ Launch the dashboard:
 
 ## Screenshots
 
+
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Security Event Timeline
 ![Security Timeline](screenshots/security_timeline.png)
 
+### Failed Login Analysis by IP
+![Failed Logins by IP](screenshots/failed_logins_by_ip.png)
+
 ### Security Log Explorer
 ![Log Explorer](screenshots/log_explorer.png)
 
-### Security Alert Analysis
+### Security Alert Investigation
 ![Alert Analysis](screenshots/alert_analysis.png)
+
+### MITRE ATT&CK Mapping
+![MITRE ATT&CK Mapping](screenshots/mitre_attack_mapping.png)
+
+### Security Reports
+![Security Reports](screenshots/security_reports.png)
 
 ## Limitations
 
